@@ -1,0 +1,655 @@
+Skin Tone,Season,Color Name,Hex Code,R_Value,G_Value,B_Value
+Ivory,Spring,Light Coral,#F08080,255,255,240
+Ivory,Spring,Peach,#FFDAB9,255,255,240
+Ivory,Spring,Warm Ivory,#FFFAF0,255,255,240
+Ivory,Spring,Golden Beige,#F5DEB3,255,255,240
+Ivory,Spring,Soft Yellow,#FFFFE0,255,255,240
+Ivory,Summer,Cool Blue,#87CEFA,255,255,240
+Ivory,Summer,Lavender,#E6E6FA,255,255,240
+Ivory,Summer,Soft Pink,#FFB6C1,255,255,240
+Ivory,Summer,Cool Beige,#F5F5DC,255,255,240
+Ivory,Summer,Light Grey,#D3D3D3,255,255,240
+Ivory,Autumn,Olive Green,#808000,255,255,240
+Ivory,Autumn,Mustard Yellow,#FFDB58,255,255,240
+Ivory,Autumn,Warm Sand,#F4A460,255,255,240
+Ivory,Autumn,Amber,#FFBF00,255,255,240
+Ivory,Autumn,Burnt Orange,#CC5500,255,255,240
+Ivory,Winter,Deep Red,#8B0000,255,255,240
+Ivory,Winter,Cool Espresso,#4B3832,255,255,240
+Ivory,Winter,Cool Almond,#EFDECD,255,255,240
+Ivory,Winter,Mocha,#6F4E37,255,255,240
+Ivory,Winter,Dark Teal,#014421,255,255,240
+Vanilla,Spring,Soft Peach,#FFDAB9,249,229,188
+Vanilla,Spring,Blush,#FFC0CB,249,229,188
+Vanilla,Spring,Light Apricot,#F5DEB3,249,229,188
+Vanilla,Spring,Buttermilk,#FFFACD,249,229,188
+Vanilla,Spring,Banana,#FFFF99,249,229,188
+Vanilla,Summer,Periwinkle,#CCCCFF,249,229,188
+Vanilla,Summer,Light Lavender,#E6E6FA,249,229,188
+Vanilla,Summer,Rose,#FF007F,249,229,188
+Vanilla,Summer,Snow,#FFFAFA,249,229,188
+Vanilla,Summer,Pale Blue,#AFEEEE,249,229,188
+Vanilla,Autumn,Moss Green,#8A9A5B,249,229,188
+Vanilla,Autumn,Golden Brown,#996515,249,229,188
+Vanilla,Autumn,Tawny,#CD5700,249,229,188
+Vanilla,Autumn,Goldenrod,#DAA520,249,229,188
+Vanilla,Autumn,Rust,#B7410E,249,229,188
+Vanilla,Winter,Cherry,#DE3163,249,229,188
+Vanilla,Winter,Dark Chocolate,#3C2F2F,249,229,188
+Vanilla,Winter,Ivory,#FFFFF0,249,229,188
+Vanilla,Winter,Ruby,#E0115F,249,229,188
+Vanilla,Winter,Sea Green,#2E8B57,249,229,188
+Shell,Spring,Light Pink,#FFB6C1,255,245,238
+Shell,Spring,Warm Blush,#FF69B4,255,245,238
+Shell,Spring,Apricot,#FBCEB1,255,245,238
+Shell,Spring,Cream,#FFFDD0,255,245,238
+Shell,Spring,Lemon,#FFF44F,255,245,238
+Shell,Summer,Baby Blue,#89CFF0,255,245,238
+Shell,Summer,Light Purple,#D8BFD8,255,245,238
+Shell,Summer,Soft Rose,#FFB6C1,255,245,238
+Shell,Summer,White,#FFFFFF,255,245,238
+Shell,Summer,Aqua,#00FFFF,255,245,238
+Shell,Autumn,Forest Green,#228B22,255,245,238
+Shell,Autumn,Warm Tan,#D2B48C,255,245,238
+Shell,Autumn,Copper,#B87333,255,245,238
+Shell,Autumn,Dark Goldenrod,#B8860B,255,245,238
+Shell,Autumn,Chocolate,#D2691E,255,245,238
+Shell,Winter,Raspberry,#E30B5D,255,245,238
+Shell,Winter,Mocha,#3B2F2F,255,245,238
+Shell,Winter,Creamy White,#FFFFF0,255,245,238
+Shell,Winter,Deep Magenta,#C71585,255,245,238
+Shell,Winter,Deep Sea Green,#8FBC8F,255,245,238
+Cool Beige,Spring,Peach,#FFDAB9,233,220,214
+Cool Beige,Spring,Coral,#FF7F50,233,220,214
+Cool Beige,Spring,Light Lemon,#FFFACD,233,220,214
+Cool Beige,Spring,Soft Gold,#FFD700,233,220,214
+Cool Beige,Spring,Warm Beige,#F5F5DC,233,220,214
+Cool Beige,Summer,Light Sky Blue,#87CEFA,233,220,214
+Cool Beige,Summer,Lilac,#C8A2C8,233,220,214
+Cool Beige,Summer,Soft Pink,#FFB6C1,233,220,214
+Cool Beige,Summer,Pale Aqua,#AFEEEE,233,220,214
+Cool Beige,Summer,Misty Rose,#FFE4E1,233,220,214
+Cool Beige,Autumn,Olive,#808000,233,220,214
+Cool Beige,Autumn,Golden Rod,#DAA520,233,220,214
+Cool Beige,Autumn,Light Tan,#D2B48C,233,220,214
+Cool Beige,Autumn,Bronze,#CD7F32,233,220,214
+Cool Beige,Autumn,Burnt Sienna,#E97451,233,220,214
+Cool Beige,Winter,Dark Red,#8B0000,233,220,214
+Cool Beige,Winter,Deep Brown,#654321,233,220,214
+Cool Beige,Winter,Soft Ivory,#FFFFF0,233,220,214
+Cool Beige,Winter,Purple Wine,#800080,233,220,214
+Cool Beige,Winter,Teal,#008080,233,220,214
+Warm Ivory,Spring,Light Coral,#F08080,238,218,199
+Warm Ivory,Spring,Peach,#FFDAB9,238,218,199
+Warm Ivory,Spring,Warm Ivory,#FFFAF0,238,218,199
+Warm Ivory,Spring,Golden Beige,#F5DEB3,238,218,199
+Warm Ivory,Spring,Soft Yellow,#FFFFE0,238,218,199
+Warm Ivory,Summer,Cool Blue,#87CEFA,238,218,199
+Warm Ivory,Summer,Lavender,#E6E6FA,238,218,199
+Warm Ivory,Summer,Soft Pink,#FFB6C1,238,218,199
+Warm Ivory,Summer,Cool Beige,#F5F5DC,238,218,199
+Warm Ivory,Summer,Light Grey,#D3D3D3,238,218,199
+Warm Ivory,Autumn,Olive Green,#808000,238,218,199
+Warm Ivory,Autumn,Mustard Yellow,#FFDB58,238,218,199
+Warm Ivory,Autumn,Warm Sand,#F4A460,238,218,199
+Warm Ivory,Autumn,Amber,#FFBF00,238,218,199
+Warm Ivory,Autumn,Burnt Orange,#CC5500,238,218,199
+Warm Ivory,Winter,Deep Red,#8B0000,238,218,199
+Warm Ivory,Winter,Cool Espresso,#4B3832,238,218,199
+Warm Ivory,Winter,Cool Almond,#EFDECD,238,218,199
+Warm Ivory,Winter,Mocha,#6F4E37,238,218,199
+Warm Ivory,Winter,Dark Teal,#014421,238,218,199
+Golden Natural,Spring,Soft Apricot,#FBCEB1,255,215,0
+Golden Natural,Spring,Coral,#FF7F50,255,215,0
+Golden Natural,Spring,Light Peach,#FFDAB9,255,215,0
+Golden Natural,Spring,Warm Ivory,#FFFAF0,255,215,0
+Golden Natural,Spring,Honey,#FFDD44,255,215,0
+Golden Natural,Summer,Cool Blue,#87CEFA,255,215,0
+Golden Natural,Summer,Lavender,#E6E6FA,255,215,0
+Golden Natural,Summer,Soft Rose,#FFB6C1,255,215,0
+Golden Natural,Summer,Light Taupe,#D2B48C,255,215,0
+Golden Natural,Summer,Slate Grey,#708090,255,215,0
+Golden Natural,Autumn,Forest Green,#228B22,255,215,0
+Golden Natural,Autumn,Golden,#FFD700,255,215,0
+Golden Natural,Autumn,Caramel,#E3A857,255,215,0
+Golden Natural,Autumn,Copper,#B87333,255,215,0
+Golden Natural,Autumn,Warm Brown,#A52A2A,255,215,0
+Golden Natural,Winter,Ruby Red,#9B111E,255,215,0
+Golden Natural,Winter,Chocolate,#7B3F00,255,215,0
+Golden Natural,Winter,Ivory,#FFFFF0,255,215,0
+Golden Natural,Winter,Burgundy,#800020,255,215,0
+Golden Natural,Winter,Deep Navy,#000080,255,215,0
+Warm Beige,Spring,Peach,#FFDAB9,211,182,156
+Warm Beige,Spring,Coral,#FF7F50,211,182,156
+Warm Beige,Spring,Light Lemon,#FFFACD,211,182,156
+Warm Beige,Spring,Soft Gold,#FFD700,211,182,156
+Warm Beige,Spring,Warm Beige,#F5F5DC,211,182,156
+Warm Beige,Summer,Light Sky Blue,#87CEFA,211,182,156
+Warm Beige,Summer,Lilac,#C8A2C8,211,182,156
+Warm Beige,Summer,Soft Pink,#FFB6C1,211,182,156
+Warm Beige,Summer,Pale Aqua,#AFEEEE,211,182,156
+Warm Beige,Summer,Misty Rose,#FFE4E1,211,182,156
+Warm Beige,Autumn,Olive,#808000,211,182,156
+Warm Beige,Autumn,Golden Rod,#DAA520,211,182,156
+Warm Beige,Autumn,Light Tan,#D2B48C,211,182,156
+Warm Beige,Autumn,Bronze,#CD7F32,211,182,156
+Warm Beige,Autumn,Burnt Sienna,#E97451,211,182,156
+Warm Beige,Winter,Dark Red,#8B0000,211,182,156
+Warm Beige,Winter,Deep Brown,#654321,211,182,156
+Warm Beige,Winter,Soft Ivory,#FFFFF0,211,182,156
+Warm Beige,Winter,Purple Wine,#800080,211,182,156
+Warm Beige,Winter,Teal,#008080,211,182,156
+Soft Beige,Spring,Light Coral,#F08080,245,245,220
+Soft Beige,Spring,Peach,#FFDAB9,245,245,220
+Soft Beige,Spring,Warm Ivory,#FFFAF0,245,245,220
+Soft Beige,Spring,Golden Beige,#F5DEB3,245,245,220
+Soft Beige,Spring,Soft Yellow,#FFFFE0,245,245,220
+Soft Beige,Summer,Cool Blue,#87CEFA,245,245,220
+Soft Beige,Summer,Lavender,#E6E6FA,245,245,220
+Soft Beige,Summer,Soft Pink,#FFB6C1,245,245,220
+Soft Beige,Summer,Cool Beige,#F5F5DC,245,245,220
+Soft Beige,Summer,Light Grey,#D3D3D3,245,245,220
+Soft Beige,Autumn,Olive Green,#808000,245,245,220
+Soft Beige,Autumn,Mustard Yellow,#FFDB58,245,245,220
+Soft Beige,Autumn,Warm Sand,#F4A460,245,245,220
+Soft Beige,Autumn,Amber,#FFBF00,245,245,220
+Soft Beige,Autumn,Burnt Orange,#CC5500,245,245,220
+Soft Beige,Winter,Deep Red,#8B0000,245,245,220
+Soft Beige,Winter,Cool Espresso,#4B3832,245,245,220
+Soft Beige,Winter,Cool Almond,#EFDECD,245,245,220
+Soft Beige,Winter,Mocha,#6F4E37,245,245,220
+Soft Beige,Winter,Dark Teal,#014421,245,245,220
+Warm Vanilla,Spring,Peach,#FFDAB9,243,229,171
+Warm Vanilla,Spring,Coral,#FF7F50,243,229,171
+Warm Vanilla,Spring,Light Lemon,#FFFACD,243,229,171
+Warm Vanilla,Spring,Soft Gold,#FFD700,243,229,171
+Warm Vanilla,Spring,Warm Beige,#F5F5DC,243,229,171
+Warm Vanilla,Summer,Light Sky Blue,#87CEFA,243,229,171
+Warm Vanilla,Summer,Lilac,#C8A2C8,243,229,171
+Warm Vanilla,Summer,Soft Pink,#FFB6C1,243,229,171
+Warm Vanilla,Summer,Pale Aqua,#AFEEEE,243,229,171
+Warm Vanilla,Summer,Misty Rose,#FFE4E1,243,229,171
+Warm Vanilla,Autumn,Olive,#808000,243,229,171
+Warm Vanilla,Autumn,Golden Rod,#DAA520,243,229,171
+Warm Vanilla,Autumn,Light Tan,#D2B48C,243,229,171
+Warm Vanilla,Autumn,Bronze,#CD7F32,243,229,171
+Warm Vanilla,Autumn,Burnt Sienna,#E97451,243,229,171
+Warm Vanilla,Winter,Dark Red,#8B0000,243,229,171
+Warm Vanilla,Winter,Deep Brown,#654321,243,229,171
+Warm Vanilla,Winter,Soft Ivory,#FFFFF0,243,229,171
+Warm Vanilla,Winter,Purple Wine,#800080,243,229,171
+Warm Vanilla,Winter,Teal,#008080,243,229,171
+Sand,Spring,Light Coral,#F08080,194,178,128
+Sand,Spring,Peach,#FFDAB9,194,178,128
+Sand,Spring,Warm Ivory,#FFFAF0,194,178,128
+Sand,Spring,Golden Beige,#F5DEB3,194,178,128
+Sand,Spring,Soft Yellow,#FFFFE0,194,178,128
+Sand,Summer,Cool Blue,#87CEFA,194,178,128
+Sand,Summer,Lavender,#E6E6FA,194,178,128
+Sand,Summer,Soft Pink,#FFB6C1,194,178,128
+Sand,Summer,Cool Beige,#F5F5DC,194,178,128
+Sand,Summer,Light Grey,#D3D3D3,194,178,128
+Sand,Autumn,Olive Green,#808000,194,178,128
+Sand,Autumn,Mustard Yellow,#FFDB58,194,178,128
+Sand,Autumn,Warm Sand,#F4A460,194,178,128
+Sand,Autumn,Amber,#FFBF00,194,178,128
+Sand,Autumn,Burnt Orange,#CC5500,194,178,128
+Sand,Winter,Deep Red,#8B0000,194,178,128
+Sand,Winter,Cool Espresso,#4B3832,194,178,128
+Sand,Winter,Cool Almond,#EFDECD,194,178,128
+Sand,Winter,Mocha,#6F4E37,194,178,128
+Sand,Winter,Dark Teal,#014421,194,178,128
+Porcelain,Spring,Light Coral,#F08080,243,230,213
+Porcelain,Spring,Peach,#FFDAB9,243,230,213
+Porcelain,Spring,Warm Ivory,#FFFAF0,243,230,213
+Porcelain,Spring,Golden Beige,#F5DEB3,243,230,213
+Porcelain,Spring,Soft Yellow,#FFFFE0,243,230,213
+Porcelain,Summer,Cool Blue,#87CEFA,243,230,213
+Porcelain,Summer,Lavender,#E6E6FA,243,230,213
+Porcelain,Summer,Soft Pink,#FFB6C1,243,230,213
+Porcelain,Summer,Cool Beige,#F5F5DC,243,230,213
+Porcelain,Summer,Light Grey,#D3D3D3,243,230,213
+Porcelain,Autumn,Olive Green,#808000,243,230,213
+Porcelain,Autumn,Mustard Yellow,#FFDB58,243,230,213
+Porcelain,Autumn,Warm Sand,#F4A460,243,230,213
+Porcelain,Autumn,Amber,#FFBF00,243,230,213
+Porcelain,Autumn,Burnt Orange,#CC5500,243,230,213
+Porcelain,Winter,Deep Red,#8B0000,243,230,213
+Porcelain,Winter,Cool Espresso,#4B3832,243,230,213
+Porcelain,Winter,Cool Almond,#EFDECD,243,230,213
+Porcelain,Winter,Mocha,#6F4E37,243,230,213
+Porcelain,Winter,Dark Teal,#014421,243,230,213
+Beige,Spring,Light Coral,#F08080,245,231,220
+Beige,Spring,Peach,#FFDAB9,245,231,220
+Beige,Spring,Warm Ivory,#FFFAF0,245,231,220
+Beige,Spring,Golden Beige,#F5DEB3,245,231,220
+Beige,Spring,Soft Yellow,#FFFFE0,245,231,220
+Beige,Summer,Cool Blue,#87CEFA,245,231,220
+Beige,Summer,Lavender,#E6E6FA,245,231,220
+Beige,Summer,Soft Pink,#FFB6C1,245,231,220
+Beige,Summer,Cool Beige,#F5F5DC,245,231,220
+Beige,Summer,Light Grey,#D3D3D3,245,231,220
+Beige,Autumn,Olive Green,#808000,245,231,220
+Beige,Autumn,Mustard Yellow,#FFDB58,245,231,220
+Beige,Autumn,Warm Sand,#F4A460,245,231,220
+Beige,Autumn,Amber,#FFBF00,245,231,220
+Beige,Autumn,Burnt Orange,#CC5500,245,231,220
+Beige,Winter,Deep Red,#8B0000,245,231,220
+Beige,Winter,Cool Espresso,#4B3832,245,231,220
+Beige,Winter,Cool Almond,#EFDECD,245,231,220
+Beige,Winter,Mocha,#6F4E37,245,231,220
+Beige,Winter,Dark Teal,#014421,245,231,220
+Buff,Spring,Light Coral,#F08080,245,202,164
+Buff,Spring,Peach,#FFDAB9,245,202,164
+Buff,Spring,Warm Ivory,#FFFAF0,245,202,164
+Buff,Spring,Golden Beige,#F5DEB3,245,202,164
+Buff,Spring,Soft Yellow,#FFFFE0,245,202,164
+Buff,Summer,Cool Blue,#87CEFA,245,202,164
+Buff,Summer,Lavender,#E6E6FA,245,202,164
+Buff,Summer,Soft Pink,#FFB6C1,245,202,164
+Buff,Summer,Cool Beige,#F5F5DC,245,202,164
+Buff,Summer,Light Grey,#D3D3D3,245,202,164
+Buff,Autumn,Olive Green,#808000,245,202,164
+Buff,Autumn,Mustard Yellow,#FFDB58,245,202,164
+Buff,Autumn,Warm Sand,#F4A460,245,202,164
+Buff,Autumn,Amber,#FFBF00,245,202,164
+Buff,Autumn,Burnt Orange,#CC5500,245,202,164
+Buff,Winter,Deep Red,#8B0000,245,202,164
+Buff,Winter,Cool Espresso,#4B3832,245,202,164
+Buff,Winter,Cool Almond,#EFDECD,245,202,164
+Buff,Winter,Mocha,#6F4E37,245,202,164
+Buff,Winter,Dark Teal,#014421,245,202,164
+Olive Beige,Spring,Light Coral,#F08080,255,248,214
+Olive Beige,Spring,Peach,#FFDAB9,255,248,214
+Olive Beige,Spring,Warm Ivory,#FFFAF0,255,248,214
+Olive Beige,Spring,Golden Beige,#F5DEB3,255,248,214
+Olive Beige,Spring,Soft Yellow,#FFFFE0,255,248,214
+Olive Beige,Summer,Cool Blue,#87CEFA,255,248,214
+Olive Beige,Summer,Lavender,#E6E6FA,255,248,214
+Olive Beige,Summer,Soft Pink,#FFB6C1,255,248,214
+Olive Beige,Summer,Cool Beige,#F5F5DC,255,248,214
+Olive Beige,Summer,Light Grey,#D3D3D3,255,248,214
+Olive Beige,Autumn,Olive Green,#808000,255,248,214
+Olive Beige,Autumn,Mustard Yellow,#FFDB58,255,248,214
+Olive Beige,Autumn,Warm Sand,#F4A460,255,248,214
+Olive Beige,Autumn,Amber,#FFBF00,255,248,214
+Olive Beige,Autumn,Burnt Orange,#CC5500,255,248,214
+Olive Beige,Winter,Deep Red,#8B0000,255,248,214
+Olive Beige,Winter,Cool Espresso,#4B3832,255,248,214
+Olive Beige,Winter,Cool Almond,#EFDECD,255,248,214
+Olive Beige,Winter,Mocha,#6F4E37,255,248,214
+Olive Beige,Winter,Dark Teal,#014421,255,248,214
+Natural,Spring,Light Coral,#F08080,240,218,185
+Natural,Spring,Peach,#FFDAB9,240,218,185
+Natural,Spring,Warm Ivory,#FFFAF0,240,218,185
+Natural,Spring,Golden Beige,#F5DEB3,240,218,185
+Natural,Spring,Soft Yellow,#FFFFE0,240,218,185
+Natural,Summer,Cool Blue,#87CEFA,240,218,185
+Natural,Summer,Lavender,#E6E6FA,240,218,185
+Natural,Summer,Soft Pink,#FFB6C1,240,218,185
+Natural,Summer,Cool Beige,#F5F5DC,240,218,185
+Natural,Summer,Light Grey,#D3D3D3,240,218,185
+Natural,Autumn,Olive Green,#808000,240,218,185
+Natural,Autumn,Mustard Yellow,#FFDB58,240,218,185
+Natural,Autumn,Warm Sand,#F4A460,240,218,185
+Natural,Autumn,Amber,#FFBF00,240,218,185
+Natural,Autumn,Burnt Orange,#CC5500,240,218,185
+Natural,Winter,Deep Red,#8B0000,240,218,185
+Natural,Winter,Cool Espresso,#4B3832,240,218,185
+Natural,Winter,Cool Almond,#EFDECD,240,218,185
+Natural,Winter,Mocha,#6F4E37,240,218,185
+Natural,Winter,Dark Teal,#014421,240,218,185
+Nude,Spring,Light Coral,#F08080,245,225,203
+Nude,Spring,Peach,#FFDAB9,245,225,203
+Nude,Spring,Warm Ivory,#FFFAF0,245,225,203
+Nude,Spring,Golden Beige,#F5DEB3,245,225,203
+Nude,Spring,Soft Yellow,#FFFFE0,245,225,203
+Nude,Summer,Cool Blue,#87CEFA,245,225,203
+Nude,Summer,Lavender,#E6E6FA,245,225,203
+Nude,Summer,Soft Pink,#FFB6C1,245,225,203
+Nude,Summer,Cool Beige,#F5F5DC,245,225,203
+Nude,Summer,Light Grey,#D3D3D3,245,225,203
+Nude,Autumn,Olive Green,#808000,245,225,203
+Nude,Autumn,Mustard Yellow,#FFDB58,245,225,203
+Nude,Autumn,Warm Sand,#F4A460,245,225,203
+Nude,Autumn,Amber,#FFBF00,245,225,203
+Nude,Autumn,Burnt Orange,#CC5500,245,225,203
+Nude,Winter,Deep Red,#8B0000,245,225,203
+Nude,Winter,Cool Espresso,#4B3832,245,225,203
+Nude,Winter,Cool Almond,#EFDECD,245,225,203
+Nude,Winter,Mocha,#6F4E37,245,225,203
+Nude,Winter,Dark Teal,#014421,245,225,203
+Cool Sand,Spring,Light Coral,#F08080,240,219,206
+Cool Sand,Spring,Peach,#FFDAB9,240,219,206
+Cool Sand,Spring,Warm Ivory,#FFFAF0,240,219,206
+Cool Sand,Spring,Golden Beige,#F5DEB3,240,219,206
+Cool Sand,Spring,Soft Yellow,#FFFFE0,240,219,206
+Cool Sand,Summer,Cool Blue,#87CEFA,240,219,206
+Cool Sand,Summer,Lavender,#E6E6FA,240,219,206
+Cool Sand,Summer,Soft Pink,#FFB6C1,240,219,206
+Cool Sand,Summer,Cool Beige,#F5F5DC,240,219,206
+Cool Sand,Summer,Light Grey,#D3D3D3,240,219,206
+Cool Sand,Autumn,Olive Green,#808000,240,219,206
+Cool Sand,Autumn,Mustard Yellow,#FFDB58,240,219,206
+Cool Sand,Autumn,Warm Sand,#F4A460,240,219,206
+Cool Sand,Autumn,Amber,#FFBF00,240,219,206
+Cool Sand,Autumn,Burnt Orange,#CC5500,240,219,206
+Cool Sand,Winter,Deep Red,#8B0000,240,219,206
+Cool Sand,Winter,Cool Espresso,#4B3832,240,219,206
+Cool Sand,Winter,Cool Almond,#EFDECD,240,219,206
+Cool Sand,Winter,Mocha,#6F4E37,240,219,206
+Cool Sand,Winter,Dark Teal,#014421,240,219,206
+Medium Buff,Spring,Light Coral,#F08080,250,221,202
+Medium Buff,Spring,Peach,#FFDAB9,250,221,202
+Medium Buff,Spring,Warm Ivory,#FFFAF0,250,221,202
+Medium Buff,Spring,Golden Beige,#F5DEB3,250,221,202
+Medium Buff,Spring,Soft Yellow,#FFFFE0,250,221,202
+Medium Buff,Summer,Cool Blue,#87CEFA,250,221,202
+Medium Buff,Summer,Lavender,#E6E6FA,250,221,202
+Medium Buff,Summer,Soft Pink,#FFB6C1,250,221,202
+Medium Buff,Summer,Cool Beige,#F5F5DC,250,221,202
+Medium Buff,Summer,Light Grey,#D3D3D3,250,221,202
+Medium Buff,Autumn,Olive Green,#808000,250,221,202
+Medium Buff,Autumn,Mustard Yellow,#FFDB58,250,221,202
+Medium Buff,Autumn,Warm Sand,#F4A460,250,221,202
+Medium Buff,Autumn,Amber,#FFBF00,250,221,202
+Medium Buff,Autumn,Burnt Orange,#CC5500,250,221,202
+Medium Buff,Winter,Deep Red,#8B0000,250,221,202
+Medium Buff,Winter,Cool Espresso,#4B3832,250,221,202
+Medium Buff,Winter,Cool Almond,#EFDECD,250,221,202
+Medium Buff,Winter,Mocha,#6F4E37,250,221,202
+Medium Buff,Winter,Dark Teal,#014421,250,221,202
+Medium Beige,Spring,Light Coral,#F08080,237,202,180
+Medium Beige,Spring,Peach,#FFDAB9,237,202,180
+Medium Beige,Spring,Warm Ivory,#FFFAF0,237,202,180
+Medium Beige,Spring,Golden Beige,#F5DEB3,237,202,180
+Medium Beige,Spring,Soft Yellow,#FFFFE0,237,202,180
+Medium Beige,Summer,Cool Blue,#87CEFA,237,202,180
+Medium Beige,Summer,Lavender,#E6E6FA,237,202,180
+Medium Beige,Summer,Soft Pink,#FFB6C1,237,202,180
+Medium Beige,Summer,Cool Beige,#F5F5DC,237,202,180
+Medium Beige,Summer,Light Grey,#D3D3D3,237,202,180
+Medium Beige,Autumn,Olive Green,#808000,237,202,180
+Medium Beige,Autumn,Mustard Yellow,#FFDB58,237,202,180
+Medium Beige,Autumn,Warm Sand,#F4A460,237,202,180
+Medium Beige,Autumn,Amber,#FFBF00,237,202,180
+Medium Beige,Autumn,Burnt Orange,#CC5500,237,202,180
+Medium Beige,Winter,Deep Red,#8B0000,237,202,180
+Medium Beige,Winter,Cool Espresso,#4B3832,237,202,180
+Medium Beige,Winter,Cool Almond,#EFDECD,237,202,180
+Medium Beige,Winter,Mocha,#6F4E37,237,202,180
+Medium Beige,Winter,Dark Teal,#014421,237,202,180
+Honey,Spring,Soft Apricot,#FBCEB1,247,201,141
+Honey,Spring,Coral,#FF7F50,247,201,141
+Honey,Spring,Light Peach,#FFDAB9,247,201,141
+Honey,Spring,Warm Ivory,#FFFAF0,247,201,141
+Honey,Spring,Honey,#FFDD44,247,201,141
+Honey,Summer,Cool Blue,#87CEFA,247,201,141
+Honey,Summer,Lavender,#E6E6FA,247,201,141
+Honey,Summer,Soft Rose,#FFB6C1,247,201,141
+Honey,Summer,Light Taupe,#D2B48C,247,201,141
+Honey,Summer,Slate Grey,#708090,247,201,141
+Honey,Autumn,Forest Green,#228B22,247,201,141
+Honey,Autumn,Golden,#FFD700,247,201,141
+Honey,Autumn,Caramel,#E3A857,247,201,141
+Honey,Autumn,Copper,#B87333,247,201,141
+Honey,Autumn,Warm Brown,#A52A2A,247,201,141
+Honey,Winter,Ruby Red,#9B111E,247,201,141
+Honey,Winter,Chocolate,#7B3F00,247,201,141
+Honey,Winter,Ivory,#FFFFF0,247,201,141
+Honey,Winter,Burgundy,#800020,247,201,141
+Honey,Winter,Deep Navy,#000080,247,201,141
+Almond,Spring,Light Coral,#F08080,212,172,127
+Almond,Spring,Peach,#FFDAB9,212,172,127
+Almond,Spring,Warm Ivory,#FFFAF0,212,172,127
+Almond,Spring,Golden Beige,#F5DEB3,212,172,127
+Almond,Spring,Soft Yellow,#FFFFE0,212,172,127
+Almond,Summer,Cool Blue,#87CEFA,212,172,127
+Almond,Summer,Lavender,#E6E6FA,212,172,127
+Almond,Summer,Soft Pink,#FFB6C1,212,172,127
+Almond,Summer,Cool Beige,#F5F5DC,212,172,127
+Almond,Summer,Light Grey,#D3D3D3,212,172,127
+Almond,Autumn,Olive Green,#808000,212,172,127
+Almond,Autumn,Mustard Yellow,#FFDB58,212,172,127
+Almond,Autumn,Warm Sand,#F4A460,212,172,127
+Almond,Autumn,Amber,#FFBF00,212,172,127
+Almond,Autumn,Burnt Orange,#CC5500,212,172,127
+Almond,Winter,Deep Red,#8B0000,212,172,127
+Almond,Winter,Cool Espresso,#4B3832,212,172,127
+Almond,Winter,Cool Almond,#EFDECD,212,172,127
+Almond,Winter,Mocha,#6F4E37,212,172,127
+Almond,Winter,Dark Teal,#014421,212,172,127
+Warm Sand,Spring,Soft Apricot,#FBCEB1,230,204,174
+Warm Sand,Spring,Coral,#FF7F50,230,204,174
+Warm Sand,Spring,Light Peach,#FFDAB9,230,204,174
+Warm Sand,Spring,Warm Ivory,#FFFAF0,230,204,174
+Warm Sand,Spring,Honey,#FFDD44,230,204,174
+Warm Sand,Summer,Cool Blue,#87CEFA,230,204,174
+Warm Sand,Summer,Lavender,#E6E6FA,230,204,174
+Warm Sand,Summer,Soft Rose,#FFB6C1,230,204,174
+Warm Sand,Summer,Light Taupe,#D2B48C,230,204,174
+Warm Sand,Summer,Slate Grey,#708090,230,204,174
+Warm Sand,Autumn,Forest Green,#228B22,230,204,174
+Warm Sand,Autumn,Golden,#FFD700,230,204,174
+Warm Sand,Autumn,Caramel,#E3A857,230,204,174
+Warm Sand,Autumn,Copper,#B87333,230,204,174
+Warm Sand,Autumn,Warm Brown,#A52A2A,230,204,174
+Warm Sand,Winter,Ruby Red,#9B111E,230,204,174
+Warm Sand,Winter,Chocolate,#7B3F00,230,204,174
+Warm Sand,Winter,Ivory,#FFFFF0,230,204,174
+Warm Sand,Winter,Burgundy,#800020,230,204,174
+Warm Sand,Winter,Deep Navy,#000080,230,204,174
+Natural Tan,Spring,Soft Apricot,#FBCEB1,232,202,167
+Natural Tan,Spring,Coral,#FF7F50,232,202,167
+Natural Tan,Spring,Light Peach,#FFDAB9,232,202,167
+Natural Tan,Spring,Warm Ivory,#FFFAF0,232,202,167
+Natural Tan,Spring,Honey,#FFDD44,232,202,167
+Natural Tan,Summer,Cool Blue,#87CEFA,232,202,167
+Natural Tan,Summer,Lavender,#E6E6FA,232,202,167
+Natural Tan,Summer,Soft Rose,#FFB6C1,232,202,167
+Natural Tan,Summer,Light Taupe,#D2B48C,232,202,167
+Natural Tan,Summer,Slate Grey,#708090,232,202,167
+Natural Tan,Autumn,Forest Green,#228B22,232,202,167
+Natural Tan,Autumn,Golden,#FFD700,232,202,167
+Natural Tan,Autumn,Caramel,#E3A857,232,202,167
+Natural Tan,Autumn,Copper,#B87333,232,202,167
+Natural Tan,Autumn,Warm Brown,#A52A2A,232,202,167
+Natural Tan,Winter,Ruby Red,#9B111E,232,202,167
+Natural Tan,Winter,Chocolate,#7B3F00,232,202,167
+Natural Tan,Winter,Ivory,#FFFFF0,232,202,167
+Natural Tan,Winter,Burgundy,#800020,232,202,167
+Natural Tan,Winter,Deep Navy,#000080,232,202,167
+Golden Natural,Spring,Soft Apricot,#FBCEB1,255,224,189
+Golden Natural,Spring,Coral,#FF7F50,255,224,189
+Golden Natural,Spring,Light Peach,#FFDAB9,255,224,189
+Golden Natural,Spring,Warm Ivory,#FFFAF0,255,224,189
+Golden Natural,Spring,Honey,#FFDD44,255,224,189
+Golden Natural,Summer,Cool Blue,#87CEFA,255,224,189
+Golden Natural,Summer,Lavender,#E6E6FA,255,224,189
+Golden Natural,Summer,Soft Rose,#FFB6C1,255,224,189
+Golden Natural,Summer,Light Taupe,#D2B48C,255,224,189
+Golden Natural,Summer,Slate Grey,#708090,255,224,189
+Golden Natural,Autumn,Forest Green,#228B22,255,224,189
+Golden Natural,Autumn,Golden,#FFD700,255,224,189
+Golden Natural,Autumn,Caramel,#E3A857,255,224,189
+Golden Natural,Autumn,Copper,#B87333,255,224,189
+Golden Natural,Autumn,Warm Brown,#A52A2A,255,224,189
+Golden Natural,Winter,Ruby Red,#9B111E,255,224,189
+Golden Natural,Winter,Chocolate,#7B3F00,255,224,189
+Golden Natural,Winter,Ivory,#FFFFF0,255,224,189
+Golden Natural,Winter,Burgundy,#800020,255,224,189
+Golden Natural,Winter,Deep Navy,#000080,255,224,189
+Golden,Spring,Soft Apricot,#FBCEB1,219,158,88
+Golden,Spring,Coral,#FF7F50,219,158,88
+Golden,Spring,Light Peach,#FFDAB9,219,158,88
+Golden,Spring,Warm Ivory,#FFFAF0,219,158,88
+Golden,Spring,Honey,#FFDD44,219,158,88
+Golden,Summer,Cool Blue,#87CEFA,219,158,88
+Golden,Summer,Lavender,#E6E6FA,219,158,88
+Golden,Summer,Soft Rose,#FFB6C1,219,158,88
+Golden,Summer,Light Taupe,#D2B48C,219,158,88
+Golden,Summer,Slate Grey,#708090,219,158,88
+Golden,Autumn,Forest Green,#228B22,219,158,88
+Golden,Autumn,Golden,#FFD700,219,158,88
+Golden,Autumn,Caramel,#E3A857,219,158,88
+Golden,Autumn,Copper,#B87333,219,158,88
+Suede,Spring,Peach,#FFDAB9,240,186,125
+Suede,Spring,Golden Beige,#F5DEB3,240,186,125
+Suede,Spring,Soft Yellow,#FFFFE0,240,186,125
+Suede,Spring,Light Coral,#F08080,240,186,125
+Suede,Spring,Mint Green,#98FF98,240,186,125
+Suede,Summer,Cool Blue,#87CEFA,240,186,125
+Suede,Summer,Lavender,#E6E6FA,240,186,125
+Suede,Summer,Soft Pink,#FFB6C1,240,186,125
+Suede,Summer,Cool Beige,#F5F5DC,240,186,125
+Suede,Summer,Light Grey,#D3D3D3,240,186,125
+Suede,Autumn,Olive Green,#808000,240,186,125
+Suede,Autumn,Mustard Yellow,#FFDB58,240,186,125
+Suede,Autumn,Warm Sand,#F4A460,240,186,125
+Suede,Autumn,Amber,#FFBF00,240,186,125
+Suede,Autumn,Burnt Orange,#CC5500,240,186,125
+Suede,Winter,Deep Red,#8B0000,240,186,125
+Suede,Winter,Cool Espresso,#4B3832,240,186,125
+Suede,Winter,Mocha,#6F4E37,240,186,125
+Suede,Winter,Dark Teal,#014421,240,186,125
+Suede,Winter,Rich Plum,#4B0082,240,186,125
+Amber,Spring,Peach,#FFDAB9,217,153,80
+Amber,Spring,Golden Beige,#F5DEB3,217,153,80
+Amber,Spring,Soft Yellow,#FFFFE0,217,153,80
+Amber,Spring,Coral,#FF7F50,217,153,80
+Amber,Spring,Lime Green,#32CD32,217,153,80
+Amber,Summer,Cool Blue,#87CEFA,217,153,80
+Amber,Summer,Lavender,#E6E6FA,217,153,80
+Amber,Summer,Soft Pink,#FFB6C1,217,153,80
+Amber,Summer,Light Grey,#D3D3D3,217,153,80
+Amber,Summer,Cool Beige,#F5F5DC,217,153,80
+Amber,Autumn,Olive Green,#808000,217,153,80
+Amber,Autumn,Mustard Yellow,#FFDB58,217,153,80
+Amber,Autumn,Amber,#FFBF00,217,153,80
+Amber,Autumn,Burnt Orange,#CC5500,217,153,80
+Amber,Autumn,Chestnut,#CD5C5C,217,153,80
+Amber,Winter,Deep Red,#8B0000,217,153,80
+Amber,Winter,Cool Espresso,#4B3832,217,153,80
+Amber,Winter,Mocha,#6F4E37,217,153,80
+Amber,Winter,Dark Teal,#014421,217,153,80
+Amber,Winter,Rich Burgundy,#800020,217,153,80
+Pecan,Spring,Peach,#FFDAB9,163,110,81
+Pecan,Spring,Golden Beige,#F5DEB3,163,110,81
+Pecan,Spring,Soft Yellow,#FFFFE0,163,110,81
+Pecan,Spring,Light Coral,#F08080,163,110,81
+Pecan,Spring,Spring Green,#00FF7F,163,110,81
+Pecan,Summer,Cool Blue,#87CEFA,163,110,81
+Pecan,Summer,Lavender,#E6E6FA,163,110,81
+Pecan,Summer,Soft Pink,#FFB6C1,163,110,81
+Pecan,Summer,Light Grey,#D3D3D3,163,110,81
+Pecan,Summer,Cool Beige,#F5F5DC,163,110,81
+Pecan,Autumn,Olive Green,#808000,163,110,81
+Pecan,Autumn,Mustard Yellow,#FFDB58,163,110,81
+Pecan,Autumn,Warm Sand,#F4A460,163,110,81
+Pecan,Autumn,Amber,#FFBF00,163,110,81
+Pecan,Autumn,Burnt Sienna,#E97451,163,110,81
+Pecan,Winter,Deep Red,#8B0000,163,110,81
+Pecan,Winter,Cool Espresso,#4B3832,163,110,81
+Pecan,Winter,Mocha,#6F4E37,163,110,81
+Pecan,Winter,Dark Teal,#014421,163,110,81
+Pecan,Winter,Navy Blue,#000080,163,110,81
+Honey Beige,Spring,Peach,#FFDAB9,204,155,124
+Honey Beige,Spring,Golden Beige,#F5DEB3,204,155,124
+Honey Beige,Spring,Soft Yellow,#FFFFE0,204,155,124
+Honey Beige,Spring,Coral,#FF7F50,204,155,124
+Honey Beige,Spring,Light Green,#90EE90,204,155,124
+Honey Beige,Summer,Cool Blue,#87CEFA,204,155,124
+Honey Beige,Summer,Lavender,#E6E6FA,204,155,124
+Honey Beige,Summer,Soft Pink,#FFB6C1,204,155,124
+Honey Beige,Summer,Light Grey,#D3D3D3,204,155,124
+Honey Beige,Summer,Cool Beige,#F5F5DC,204,155,124
+Honey Beige,Autumn,Olive Green,#808000,204,155,124
+Honey Beige,Autumn,Mustard Yellow,#FFDB58,204,155,124
+Honey Beige,Autumn,Amber,#FFBF00,204,155,124
+Honey Beige,Autumn,Burnt Orange,#CC5500,204,155,124
+Honey Beige,Autumn,Warm Sand,#F4A460,204,155,124
+Honey Beige,Winter,Deep Red,#8B0000,204,155,124
+Honey Beige,Winter,Cool Espresso,#4B3832,204,155,124
+Honey Beige,Winter,Cool Almond,#EFDECD,204,155,124
+Honey Beige,Winter,Mocha,#6F4E37,204,155,124
+Honey Beige,Winter,Dark Teal,#014421,204,155,124
+Cool Golden,Spring,Peach,#FFDAB9,186,120,87
+Cool Golden,Spring,Golden Beige,#F5DEB3,186,120,87
+Cool Golden,Spring,Soft Yellow,#FFFFE0,186,120,87
+Cool Golden,Spring,Coral,#FF7F50,186,120,87
+Cool Golden,Spring,Spring Green,#00FF7F,186,120,87
+Cool Golden,Summer,Cool Blue,#87CEFA,186,120,87
+Cool Golden,Summer,Lavender,#E6E6FA,186,120,87
+Cool Golden,Summer,Soft Pink,#FFB6C1,186,120,87
+Cool Golden,Summer,Light Grey,#D3D3D3,186,120,87
+Cool Golden,Summer,Cool Beige,#F5F5DC,186,120,87
+Cool Golden,Autumn,Olive Green,#808000,186,120,87
+Cool Golden,Autumn,Mustard Yellow,#FFDB58,186,120,87
+Cool Golden,Autumn,Amber,#FFBF00,186,120,87
+Cool Golden,Autumn,Burnt Orange,#CC5500,186,120,87
+Cool Golden,Autumn,Chestnut,#CD5C5C,186,120,87
+Cool Golden,Winter,Deep Red,#8B0000,186,120,87
+Cool Golden,Winter,Cool Espresso,#4B3832,186,120,87
+Cool Golden,Winter,Mocha,#6F4E37,186,120,87
+Cool Golden,Winter,Dark Teal,#014421,186,120,87
+Cool Golden,Winter,Rich Burgundy,#800020,186,120,87
+Cool Almond,Spring,Peach,#FFDAB9,158,119,103
+Cool Almond,Spring,Golden Beige,#F5DEB3,158,119,103
+Cool Almond,Spring,Soft Yellow,#FFFFE0,158,119,103
+Cool Almond,Spring,Light Coral,#F08080,158,119,103
+Cool Almond,Spring,Mint Green,#98FF98,158,119,103
+Cool Almond,Summer,Cool Blue,#87CEFA,158,119,103
+Cool Almond,Summer,Lavender,#E6E6FA,158,119,103
+Cool Almond,Summer,Soft Pink,#FFB6C1,158,119,103
+Cool Almond,Summer,Cool Beige,#F5F5DC,158,119,103
+Cool Almond,Summer,Light Grey,#D3D3D3,158,119,103
+Cool Almond,Autumn,Olive Green,#808000,158,119,103
+Cool Almond,Autumn,Mustard Yellow,#FFDB58,158,119,103
+Cool Almond,Autumn,Warm Sand,#F4A460,158,119,103
+Cool Almond,Autumn,Amber,#FFBF00,158,119,103
+Cool Almond,Autumn,Burnt Sienna,#E97451,158,119,103
+Cool Almond,Winter,Deep Red,#8B0000,158,119,103
+Cool Almond,Winter,Cool Espresso,#4B3832,158,119,103
+Cool Almond,Winter,Mocha,#6F4E37,158,119,103
+Cool Almond,Winter,Dark Teal,#014421,158,119,103
+Cool Almond,Winter,Navy Blue,#000080,158,119,103
+Desert,Spring,Peach,#FFDAB9,117,79,55
+Desert,Spring,Golden Beige,#F5DEB3,117,79,55
+Desert,Spring,Soft Yellow,#FFFFE0,117,79,55
+Desert,Spring,Light Coral,#F08080,117,79,55
+Desert,Spring,Spring Green,#00FF7F,117,79,55
+Desert,Summer,Cool Blue,#87CEFA,117,79,55
+Desert,Summer,Lavender,#E6E6FA,117,79,55
+Desert,Summer,Soft Pink,#FFB6C1,117,79,55
+Desert,Summer,Light Grey,#D3D3D3,117,79,55
+Desert,Summer,Cool Beige,#F5F5DC,117,79,55
+Desert,Autumn,Olive Green,#808000,117,79,55
+Desert,Autumn,Mustard Yellow,#FFDB58,117,79,55
+Desert,Autumn,Amber,#FFBF00,117,79,55
+Desert,Autumn,Burnt Orange,#CC5500,117,79,55
+Desert,Autumn,Chestnut,#CD5C5C,117,79,55
+Desert,Winter,Deep Red,#8B0000,117,79,55
+Desert,Winter,Cool Espresso,#4B3832,117,79,55
+Desert,Winter,Mocha,#6F4E37,117,79,55
+Desert,Winter,Dark Teal,#014421,117,79,55
+Desert,Winter,Rich Plum,#4B0082,117,79,55
+Mahogany,Spring,Peach,#FFDAB9,145,60,17
+Mahogany,Spring,Golden Beige,#F5DEB3,145,60,17
+Mahogany,Spring,Soft Yellow,#FFFFE0,145,60,17
+Mahogany,Spring,Light Coral,#F08080,145,60,17
+Mahogany,Spring,Spring Green,#00FF7F,145,60,17
+Mahogany,Summer,Cool Blue,#87CEFA,145,60,17
+Mahogany,Summer,Lavender,#E6E6FA,145,60,17
+Mahogany,Summer,Soft Pink,#FFB6C1,145,60,17
+Mahogany,Summer,Light Grey,#D3D3D3,145,60,17
+Mahogany,Summer,Cool Beige,#F5F5DC,145,60,17
+Mahogany,Autumn,Olive Green,#808000,145,60,17
+Mahogany,Autumn,Mustard Yellow,#FFDB58,145,60,17
+Mahogany,Autumn,Amber,#FFBF00,145,60,17
+Mahogany,Autumn,Burnt Orange,#CC5500,145,60,17
+Mahogany,Autumn,Chestnut,#CD5C5C,145,60,17
+Mahogany,Winter,Deep Red,#8B0000,145,60,17
+Mahogany,Winter,Cool Espresso,#4B3832,145,60,17
+Mahogany,Winter,Mocha,#6F4E37,145,60,17
+Mahogany,Winter,Dark Teal,#014421,145,60,17
+Mahogany,Winter,Rich Burgundy,#800020,145,60,17
