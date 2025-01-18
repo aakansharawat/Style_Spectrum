@@ -1,0 +1,1 @@
+This project aims to develop an AI-powered system called Style Spectrum, which helps users identify their skin tone and receive personalized color recommendations for different seasons. The goal is to provide personalized fashion and styling guidance, promoting inclusivity by considering a wide range of skin tones.
